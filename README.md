@@ -4,7 +4,7 @@ This repoistory use for store the brute force tool written by me.\
 此Repoistory成用來上傳自己寫的暴力破解工具，\
 之後寫的暴力破解工具也會上傳在此處。
 
-Irregularly update.
+Irregularly update.\
 不定時更新.
 
 ## Authors
